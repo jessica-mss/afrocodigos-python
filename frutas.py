@@ -1,0 +1,5 @@
+print('uva')
+print('banana')
+print('pera')
+print('melancia')
+print('abacaxi')
